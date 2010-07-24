@@ -78,7 +78,7 @@ body#manpage                        { margin:0 }
 
 /* PREFORMATTED BLOCKS */
 
-.mp pre                            { padding:0 4ex }
+.mp pre                            { padding:5px 1ex;background:#edeceb;border-left:1ex solid #ddd }
 .mp pre code                       { font-weight:normal;color:#434241 }
 .mp h2+pre, h3+pre                 { padding-left:0 }
 

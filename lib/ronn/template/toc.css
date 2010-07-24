@@ -7,7 +7,7 @@
     left:113ex; /* .mp width + padding */
     height:100%;
     width:100%;
-    padding:48px 0 0 0;
+    padding:36px 0 0 0;
     border-left:1px solid #dbdbdb;
     background:#eee;
 }
@@ -17,7 +17,7 @@
 .man-navigation a:visited {
     display:block;
     margin:0;
-    padding:5px 2px 5px 30px;
+    padding:5px 2px 5px 20px;
     color:#999;
     text-decoration:none;
 }
